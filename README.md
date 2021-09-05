@@ -1,2 +1,2 @@
 # book_inventory
-Creating a book inventory with a GUI and using SQLite3 
+OOP to create a book inventory with a GUI and using SQLite3 
